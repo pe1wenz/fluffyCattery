@@ -95,7 +95,7 @@ body {
   
   .img-text-wrapper .subtitle {
     transition: 1s;
-    color: transparent;
+    color: white;
     position: absolute;
     top: 0;
     display: flex;
