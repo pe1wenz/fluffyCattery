@@ -169,3 +169,7 @@ body {
 .amazon {
   background-image: url('amazon/background.jpg');
 }
+
+.amazon-catigory {
+  color:peru;
+}
