@@ -62,8 +62,17 @@ body {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
   }
+
+  .amazon-items-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+  }
   
   .portfolio-item-wrapper {
+    position: relative;
+  }
+
+  .amazon-item-wrapper {
     position: relative;
   }
   
@@ -75,6 +84,13 @@ body {
     width: 100%;
   }
   
+  .amazon-img-background {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 350px;
+    width: 100%;
+  }
 
   
   .img-text-wrapper .subtitle {
@@ -133,3 +149,13 @@ body {
       padding-block: 20px;
       text-decoration: none;
   }
+
+.amazon-grid-elements{
+  display: grid;
+  grid-gap: 50px 100px;
+  grid-template-columns:  auto auto auto auto;
+  color:steelblue;
+}
+
+.amazon-element{
+}
