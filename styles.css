@@ -153,9 +153,19 @@ body {
 .amazon-grid-elements{
   display: grid;
   grid-gap: 50px 100px;
-  grid-template-columns:  auto auto auto auto;
+  grid-template-columns:  auto auto auto;
   color:steelblue;
 }
 
+.amazon-header{
+  color: lightseagreen;
+}
+
+
 .amazon-element{
+  position: center;
+}
+
+.amazon {
+  background-image: url('amazon/background.jpg');
 }
