@@ -23,6 +23,15 @@ body {
     font-weight: 1000;
     font-size: 30px;
   }
+
+  .cat-profile-info{
+    font-family: 'Yomogi', cursive;
+  }
+
+  .kitten-profile-info{
+    font-family: 'Yomogi', cursive;
+    color:peru;
+  }
   
   .nav-wrapper > .left-side > div {
     margin-right: 20px;
@@ -159,17 +168,44 @@ body {
 
 .amazon-header{
   color: lightseagreen;
+  font-family: 'Yomogi', cursive;
 }
 
 
 .amazon-element{
   position: center;
+  font-family: 'Yomogi';
+  font: bolder;
+  color: black;
 }
 
-.amazon {
-  background-image: url('amazon/background.jpg');
+.kitten-profiles {
+  display: grid;
+  grid-template-columns: auto auto;
+  position: center;
+}
+
+.videogallery{
 }
 
 .amazon-catigory {
   color:peru;
+  font-family: 'Yomogi';
+}
+
+#litter-number{
+  color:peru
+}
+
+.video-grid-elements{
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+.video-element{
+  position: center;
+}
+
+body{
+  background-color:rgb(212, 231, 248);
 }
