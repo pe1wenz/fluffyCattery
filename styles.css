@@ -185,6 +185,12 @@ body {
   position: center;
 }
 
+#litterB {
+  display: grid;
+  grid-template-columns: auto auto;
+  position: center;
+}
+
 .videogallery{
 }
 
