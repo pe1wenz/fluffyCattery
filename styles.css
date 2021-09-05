@@ -30,7 +30,7 @@ body {
 
   .kitten-profile-info{
     font-family: 'Yomogi', cursive;
-    color:peru;
+    color:saddlebrown;
   }
   
   .nav-wrapper > .left-side > div {
@@ -206,7 +206,7 @@ body {
 }
 
 .amazon-catigory {
-  color:peru;
+  color:saddlebrown;
   font-family: 'Yomogi';
 }
 
@@ -215,7 +215,7 @@ body {
 }
 
 #litter-number{
-  color:peru
+  color:saddlebrown
 }
 
 .video-grid-elements{
