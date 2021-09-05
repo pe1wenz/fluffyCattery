@@ -191,6 +191,17 @@ body {
   position: center;
 }
 
+#owning-info{
+  display: grid;
+  grid-template-columns: auto;
+  position: center;
+}
+
+ #owning-info h1{
+  color:saddlebrown;
+  font-family: 'Yomogi';
+}
+
 .videogallery{
 }
 
