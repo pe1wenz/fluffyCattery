@@ -220,11 +220,12 @@ body {
 
 .video-grid-elements{
   display: grid;
-  grid-template-columns: auto auto auto;
+  grid-template-columns: auto auto;
 }
 
 .video-element{
-  position: center;
+  height: 500;
+  width: 500;
 }
 
 body{
