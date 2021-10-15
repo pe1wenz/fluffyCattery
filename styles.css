@@ -230,3 +230,8 @@ body{
   height: 50px;
   border-radius: 50%;
 }
+
+.brand a{
+  color: black;
+    text-decoration: none;
+}
