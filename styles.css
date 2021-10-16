@@ -1,6 +1,7 @@
 body {
     font-family: "Yomogi&display=swap", sans-serif;
     margin: 0px;
+    font-size: 14px;
   }
   
   .container {
@@ -43,6 +44,7 @@ body {
     height: 22px;
     border-bottom: 1px solid transparent;
     transition: border-bottom 0.5s;
+    font-size: large;
   }
   
   .active-nav-link {
@@ -169,6 +171,17 @@ body {
   font-family: 'Yomogi', cursive;
 }
 
+.about-main h1{
+  color: lightseagreen;
+  font-family: 'Yomogi', cursive;
+}
+
+.about-main p{
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size:larger;
+}
+
 
 .amazon-element{
   position: center;
@@ -200,8 +213,6 @@ body {
   font-family: 'Yomogi';
 }
 
-.videogallery{
-}
 
 .amazon-catigory {
   color:saddlebrown;
