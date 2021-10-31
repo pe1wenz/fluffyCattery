@@ -256,3 +256,11 @@ body{
   background-color:#8a8a8a;
   color: white;
 }
+
+.copyright a:link{
+  color: white;
+}
+
+.copyright a:visited {
+  color: white;
+}
