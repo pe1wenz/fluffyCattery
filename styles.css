@@ -194,6 +194,11 @@ body {
   display: grid;
   grid-template-columns: auto auto;
   position: center;
+
+}
+
+.kitten-profile{
+
 }
 
 #litterB {
@@ -245,4 +250,9 @@ body{
 .brand a{
   color: black;
     text-decoration: none;
+}
+
+.copyright{
+  background-color:#8a8a8a;
+  color: white;
 }
