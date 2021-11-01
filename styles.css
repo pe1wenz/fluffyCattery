@@ -255,6 +255,8 @@ body{
 .copyright{
   background-color:#8a8a8a;
   color: white;
+  border-width: 2px;
+  border-color:  white;
 }
 
 .copyright a:link{
@@ -263,4 +265,21 @@ body{
 
 .copyright a:visited {
   color: white;
+}
+
+
+
+#waitlistUrl a:hover, a:active {
+  background-color: green;
+  color: white;
+}
+
+#waitlistUrl a:link, a:visited {
+  background-color: white;
+  color: black;
+  border: 2px solid green;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
 }
