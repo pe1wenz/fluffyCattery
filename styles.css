@@ -243,6 +243,12 @@ body {
   color:saddlebrown
 }
 
+#kitten-status{
+  font-size:x-large;
+  font-weight: bolder;
+  background-color: beige;
+}
+
 .video-grid-elements{
   display: grid;
   grid-template-columns: auto auto auto;
