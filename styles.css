@@ -188,6 +188,17 @@ body {
   font-family: 'Yomogi';
   font: bolder;
   color: black;
+  border-width: 2px;
+  border-color:ivory;
+  border-style: solid;
+  
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-top: 10px;
+  background-color:linen;
+
 }
 
 .kitten-profiles {
