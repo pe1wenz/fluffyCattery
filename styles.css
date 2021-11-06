@@ -61,7 +61,7 @@ body {
   .amazon-items-wrapper {
     
     display: grid;
-    grid-template-columns: auto auto;
+    grid-template-columns: 1fr 1fr];
   }
   
   .portfolio-item-wrapper {
