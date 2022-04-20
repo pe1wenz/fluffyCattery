@@ -638,3 +638,8 @@ main {
 #contactUsIcon-scam{
   color: red;
 }
+
+.photo img{
+  width: 80%;
+  margin: 1%;
+}
