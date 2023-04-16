@@ -219,7 +219,7 @@ body {
 
 .kitten-profiles {
   display: grid;
-  grid-template-columns: auto auto;
+  grid-template-columns: auto;
   position: center;
 
 }
