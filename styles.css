@@ -61,7 +61,7 @@ body {
   .amazon-items-wrapper {
     
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    /* grid-template-columns: auto auto ; */
   }
   
   .portfolio-item-wrapper {
@@ -177,8 +177,8 @@ body {
 
 .amazon-grid-elements{
   display: grid;
-  grid-gap: 50px 100px;
-  grid-template-columns:  auto auto auto;
+  grid-gap: 10px 10px;
+  grid-template-columns:  auto auto ;
   color:steelblue;
 }
 
